@@ -1,1 +1,8 @@
-{}
+{
+  "spellcheck": false,
+  "newLinkFormat": "absolute",
+  "alwaysUpdateLinks": true,
+  "useMarkdownLinks": true,
+  "deleteUnlinkedAttachments": "always",
+  "attachmentFolderPath": "Attachments"
+}
