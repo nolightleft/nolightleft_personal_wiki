@@ -9,5 +9,3 @@ Dism /Online /Cleanup-Image /StartComponentCleanup
 ```
 Dism /Online /Cleanup-Image /SPSuperseded
 ```
-
-# 清理
